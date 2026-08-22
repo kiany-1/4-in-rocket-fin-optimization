@@ -4,7 +4,7 @@ An aerodynamic sensitivity analysis evaluating the trade-offs between stability,
 --
 
 ## Final Report
-View the complete single-page trade study
+View the complete single-page study
 **[4_in_high_power_rocket_aero_performance_sensitivity.pdf](./4_in_high_power_rocket_aero_performance_sensitivity.pdf)**
 
 --
@@ -21,7 +21,7 @@ View the complete single-page trade study
 **Tip Chord** | 4 - 30 cm | 7.5 cm | Low (16% change) |
 
 ## Project Structure
-'''text
-4_in_high_power_rocket_design_review.pdf   # Standardized 3x3 matrix PDF report
-README.md                                  # Project overview and key takeaways
-4_in_rocket_design.ork                     # Rocket design and simulation
+
+**[4_in_high_power_rocket_design_review.pdf](./4_in_high_power_rocket_design_review.pdf)**   # Standardized 3x3 matrix PDF report
+**[README.md](./README.md)**                                                                 # Project overview and key takeaways
+**[4_in_rocket_design.ork](./4_in_rocket_design.ork)**                                       # Rocket design and simulation
