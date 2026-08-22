@@ -19,6 +19,12 @@ View the complete single-page study<br/>
 | **Fin Sweep** | 3 - 18 cm | 15 cm | Moderate (61% change) |<br/>
 | **Tip Chord** | 4 - 30 cm | 7.5 cm | Low (16% change) |<br/>
 
+| Parameter | Test Range | Baseline Value | Stability Impact |
+| :--- | :--- | :--- | :--- |
+| **Fin Span** | 7 - 14 cm | 10 cm | High (90% change) |
+| **Fin Sweep** | 3 - 18 cm | 15 cm | Moderate (61% change) |
+| **Tip Chord** | 4 - 30 cm | 7.5 cm | Low (16% change) |
+
 ## Project Structure
 
 **[4-Inch High-Power Rocket Design Review](./Documentation/4_in_high_power_rocket_design_review.pdf)**   --> Standardized 3x3 matrix PDF report<br/>
