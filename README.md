@@ -25,3 +25,4 @@ View the complete single-page study<br/>
 **[4_in_high_power_rocket_design_review.pdf](./4_in_high_power_rocket_design_review.pdf)**   # Standardized 3x3 matrix PDF report<br/>
 **[README.md](./README.md)**                                                                 # Project overview and key takeaways<br/>
 **[4_in_rocket_design.ork](./4_in_rocket_design.ork)**                                       # Rocket design and simulation<br/>
+**[Aero_Performance/Graphs](./Aero_Performance/Graphs)**                                     # Graphs of varying geometries vs apogee, max velocity, and stability <br/>
