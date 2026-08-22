@@ -22,7 +22,8 @@ View the complete single-page study<br/>
 
 ## Project Structure
 
-**[4 Inch High-Power Rocket Design Review](./Documentation/4_in_high_power_rocket_design_review.pdf)**   --> Standardized 3x3 matrix PDF report<br/>
-**[README.md](./README.md)**                                                                 --> Project overview and key takeaways<br/>
-**[Simulations/4_in_rocket_design.ork](./Simulations/4_in_rocket_design.ork)**                                       --> Rocket design and simulation<br/>
-**[Aero_Performance/Graphs](./Aero_Performance/Graphs)**                                     --> Graphs of varying geometries vs apogee, max velocity, and stability <br/>
+**[4-Inch High-Power Rocket Design Review](./Documentation/4_in_high_power_rocket_design_review.pdf)**   --> Standardized 3x3 matrix PDF report<br/>
+**[4-Inch Rocket Design](./Simulations/4_in_rocket_design.ork)**                                       --> Rocket design and simulation<br/>
+**[Graphs](./Aero_Performance/Graphs)**                                     --> Graphs of varying geometries vs apogee, max velocity, and stability <br/>
+<br/>
+**[README](./README.md)**                                                                 --> Project overview and key takeaways<br/>
