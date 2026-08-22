@@ -12,7 +12,7 @@ View the complete single-page study<br/>
 ## Key Takeaways
 **Span Dominance:** Fin span is the primary driver of vehicle stability, accounting for up to a **90% drop** in stability margin when reduced below baseline. <br/> 
 **Sweep Sensitivity:** Fin sweep provides moderate stability control (**61% variation** relative to baseline) with only minor velocity drag penalties.<br/>
-**Tip Chord Tuning:** Tip chord exhibits minimal overall performance impact (**16% sensitivity**), making it an ideal parameter for structural and manufacturing fine-tuning.<br/>
+**Tip Chord Tuning:** Tip chord exhibits minimal overall performance impact (**16% sensitivity** relative to baseline), making it an ideal parameter for structural and manufacturing fine-tuning.<br/>
 
 ## Parameters Evaluated
 | **Parameter** | Test Range | Baseline Value | Stability Impact |<br/>
