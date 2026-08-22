@@ -1,4 +1,4 @@
-# 4-in-rocket-fin-optimization
+# 4-Inch-Rocket-Fin-Optimization
 An aerodynamic sensitivity analysis evaluating the trade-offs between stability, apogee, and maximum velocity across varying fin geometries for a 4-inch airframe rocket. 
 
 
