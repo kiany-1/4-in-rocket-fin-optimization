@@ -5,7 +5,7 @@ An aerodynamic sensitivity analysis evaluating the trade-offs between stability,
 
 ## Final Report
 View the complete single-page study<br/>
-**[4_in_high_power_rocket_aero_performance_sensitivity.pdf](./4_in_high_power_rocket_aero_performance_sensitivity.pdf)**
+**[4-Inch High-Power Rocket Aero Performance Sensitivity](./4_in_high_power_rocket_aero_performance_sensitivity.pdf)**
 
 --
 
