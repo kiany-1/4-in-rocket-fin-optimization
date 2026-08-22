@@ -1,13 +1,11 @@
 # 4-in-rocket-fin-optimization
 An aerodynamic sensitivity analysis evaluating the trade-offs between stability, apogee, and maximum velocity across varying fin geometries for a 4-inch airframe rocket. 
 
---
 
 ## Final Report
 View the complete single-page study<br/>
 **[4-Inch High-Power Rocket Aero Performance Sensitivity](./4_in_high_power_rocket_aero_performance_sensitivity.pdf)**
 
---
 
 ## Key Takeaways
 **Span Dominance:** Fin span is the primary driver of vehicle stability, accounting for up to a **90% drop** in stability margin when reduced below baseline. <br/> 
