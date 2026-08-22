@@ -13,12 +13,6 @@ View the complete single-page study<br/>
 **Tip Chord Tuning:** Tip chord exhibits minimal overall performance impact (**16% sensitivity** relative to baseline), making it an ideal parameter for structural and manufacturing fine-tuning.<br/>
 
 ## Parameters Evaluated
-| :--- | :--- | :--- | :--- |
-| **Parameter** | Test Range | Baseline Value | Stability Impact |<br/>
-| **Fin Span** | 7 - 14 cm | 10 cm | High (90% change) |<br/>
-| **Fin Sweep** | 3 - 18 cm | 15 cm | Moderate (61% change) |<br/>
-| **Tip Chord** | 4 - 30 cm | 7.5 cm | Low (16% change) |<br/>
-
 | Parameter | Test Range | Baseline Value | Stability Impact |
 | :--- | :--- | :--- | :--- |
 | **Fin Span** | 7 - 14 cm | 10 cm | High (90% change) |
